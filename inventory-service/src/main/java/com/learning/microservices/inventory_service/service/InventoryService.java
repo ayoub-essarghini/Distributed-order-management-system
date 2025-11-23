@@ -14,7 +14,6 @@ import java.util.Collection;
 import java.util.concurrent.ConcurrentHashMap;
 
 @Service
-@RequiredArgsConstructor
 public class InventoryService {
     private final RabbitTemplate rabbitTemplate;
     private final ConcurrentHashMap<String, Product> inventory = new ConcurrentHashMap<>();

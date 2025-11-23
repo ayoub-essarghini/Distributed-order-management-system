@@ -42,7 +42,7 @@ public class OrderService implements OrderServiceImpl{
                 orderRequest.getProductId(),
                 orderRequest.getQuantity(),
                 totalPrice,
-                "PENDING", LocalDateTime.now()
+                "ORDER_CREATED", LocalDateTime.now()
         );
 
         rabbitTemplate.convertAndSend(RabbitMQConfig.ORDER_QUEUE, orderEvent);

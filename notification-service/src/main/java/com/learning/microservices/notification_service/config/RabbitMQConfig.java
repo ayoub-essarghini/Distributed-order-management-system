@@ -1,4 +1,4 @@
-package com.learning.microservices.inventory_service.config;
+package com.learning.microservices.notification_service.config;
 
 import org.springframework.amqp.core.Queue;
 import org.springframework.amqp.support.converter.JacksonJsonMessageConverter;
