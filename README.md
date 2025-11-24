@@ -1,8 +1,8 @@
 # 🚀 Distributed Order Management System
 
-> ⚡ Event-driven microservices using Spring Boot 4.x, RabbitMQ, and RESTful APIs. Demonstrates async messaging, service decoupling, and scalable architecture patterns.
+> ⚡ Event-driven microservices using Spring Boot 4.0, RabbitMQ, and RESTful APIs. Demonstrates async messaging, service decoupling, and scalable architecture patterns.
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2-brightgreen) ![Java](https://img.shields.io/badge/Java-17-blue) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3.12-orange) ![Docker](https://img.shields.io/badge/Docker-Ready-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.0-brightgreen) ![Java](https://img.shields.io/badge/Java-17-blue) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3.0-orange) ![Docker](https://img.shields.io/badge/Docker-Ready-blue)
 
 ---
 
@@ -41,7 +41,7 @@ But here's the cool part - they don't talk directly to each other. They send mes
 
 **Run it:**
 ```bash
-git clone https://github.com/yourusername/distributed-order-management-system.git
+git clone https://github.com/ayoub-essarghini/distributed-order-management-system.git
 cd distributed-order-management-system
 docker-compose up
 ```
