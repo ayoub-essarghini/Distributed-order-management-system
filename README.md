@@ -2,7 +2,7 @@
 
 > ⚡ Event-driven microservices using Spring Boot 4.0, RabbitMQ, and RESTful APIs. Demonstrates async messaging, service decoupling, and scalable architecture patterns.
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.0-brightgreen) ![Java](https://img.shields.io/badge/Java-17-blue) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3.0-orange) ![Docker](https://img.shields.io/badge/Docker-Ready-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.0-brightgreen) ![Java](https://img.shields.io/badge/Java-17-blue) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3.0-orange) ![Docker](https://img.shields.io/badge/Docker-Ready-blue) ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
 
@@ -261,8 +261,9 @@ No contribution is too small - even fixing typos helps!
 
 ## 📝 License
 
-MIT License - feel free to use this for learning, teaching, or building your own projects.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+Copyright (c) 2025 Ayoub Essarghini
 ---
 
 ## ⭐ Show Some Love
